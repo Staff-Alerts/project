@@ -32,7 +32,7 @@ TBC
 * 12 Oct - 16 Oct: Iteration and user testing - 1 week
 * 19 Oct - 23 Oct: Iteration and user testing - 1 week
 * 26 Oct - 30 Oct: Contingency week
-* November - initial release
+* November: Initial release
 
 
 ## Team
