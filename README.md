@@ -27,8 +27,8 @@ TBC
 
 ## Timeline
 
-* 14  - 25 Sep: Disco/Planning/UR/Backlog refinement - 2 weeks
-* 28 Sep - 9 Oct: Build (Alpha) - 2 weeks
+* 14 Sep - 25 Sep: Disco/Planning/UR/Backlog refinement - 2 weeks
+* 28 Sep - 09 Oct: Build (Alpha) - 2 weeks
 * 12 Oct - 16 Oct: Iteration and user testing - 1 week
 * 19 Oct - 23 Oct: Iteration and user testing - 1 week
 * 26 Oct - 30 Oct: Contingency week
@@ -43,7 +43,8 @@ TBC
 * Dave Stone – Developer
 * Simon Nebesnuick – Service Design / Scrum Master
 
-* Subject Matter Experts
-    * Internal Digital Services - Sharon Sawyer
-    * Incident Communication Service - Steph Turner/Lisa Matthews 
-    * Business Continuity Incident Management – Chris Strong
+### Subject Matter Experts
+
+* Internal Digital Services - Sharon Sawyer
+* Incident Communication Service - Steph Turner/Lisa Matthews 
+* Business Continuity Incident Management – Chris Strong
