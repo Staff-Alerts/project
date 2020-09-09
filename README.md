@@ -28,4 +28,13 @@ TBC
 
 ## Team
 
-TBC
+* Liz Hills – Delivery Manager
+* Polly Sait – Product Manager (for development phase)
+* Ray Hanson – Developer
+* Dave Stone – Developer
+* Simon Nebesnuick – Service Designer
+* Scrum Master - TBC
+* SMEs
+    * Internal Digital Services - Sharon Sawyer
+    * Incident Communication Service - Steph Turner/Lisa Matthews 
+    * BCIM (Business Continuity Incident Management) – Chris Strong
