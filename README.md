@@ -16,15 +16,24 @@ The currently in progress "Defra Single Group Text Alert Service" project does *
 
 1. Create a internal staff interface to allow for the issuing of messages by staff, allows basic staff data maintenance
 
+1. Handover to Internal Digital Services
 
+
+ do not have the people to take this on in the short term which is understood but be redesigning this will make it easier for future transition or adoption/re-use by Defra.
 
 ## Benefits
 
 TBC
 
-## Time scales
+## Timeline
 
-TBC
+* 14  - 25 Sep: Disco/Planning/UR/Backlog refinement - 2 weeks
+* 28 Sep - 9 Oct: Build (Alpha) - 2 weeks
+* 12 Oct - 16 Oct: Iteration and user testing - 1 week
+* 19 Oct - 23 Oct: Iteration and user testing - 1 week
+* 26 Oct - 30 Oct: Contingency week
+* November - initial release
+
 
 ## Team
 
@@ -32,9 +41,9 @@ TBC
 * Polly Sait – Product Manager (for development phase)
 * Ray Hanson – Developer
 * Dave Stone – Developer
-* Simon Nebesnuick – Service Designer
-* Scrum Master - TBC
-* SMEs
+* Simon Nebesnuick – Service Design / Scrum Master
+
+* Subject Matter Experts
     * Internal Digital Services - Sharon Sawyer
     * Incident Communication Service - Steph Turner/Lisa Matthews 
-    * BCIM (Business Continuity Incident Management) – Chris Strong
+    * Business Continuity Incident Management – Chris Strong
