@@ -1,5 +1,8 @@
 # Staff Alerts - Proposal
 
+## Recent updates
+
+* [Week 1](.../project/updates/week1.md)
 
 ## Background
 
