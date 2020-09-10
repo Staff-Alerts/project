@@ -47,10 +47,11 @@ The intention is for this service to eventually replace the existing EA Text Ale
 
 ## Benefits
 
-* Provides a better service for users with lower overheads for future transition to Internal Digital Services
+* Provides a better service for users with lower overheads 
+* Provide a seamless transition to Internal Digital Services for future management
 * We can better meet the user needs we have seen and have had through feedback
 * Substantially reduces the maintenance overhead from the Extremal Digital Services team
-* Lower cost (current contract ~ around £40k)
+* Lower cost (current contract ~ around £40k - does not include staff time and overheads)
 * Ability to re-use components from XWS (NeXt Warning System) development
 * Ability to open source our work for re-use by Defra or others without restriction
 
