@@ -2,7 +2,7 @@
 
 ## Recent updates
 
-* [Week 1](/updates/week1.md)
+* [Week 0](/updates/week0.md)
 
 ## Background
 
