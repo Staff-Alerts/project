@@ -65,8 +65,8 @@ The intention is for this service to eventually replace the existing EA Text Ale
 
 * Liz Hills – Delivery Manager
 * Polly Sait – Product Manager (for alpha phase)
-* Ray Hanson – Developer
-* Dave Stone – Developer
+* Dave Stone – Lead developer
+* Ray Hanson – Developer / Tester
 * Simon Nebesnuick – Service Design / Scrum Master
 
 ### Subject Matter Experts
