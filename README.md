@@ -75,5 +75,5 @@ The intention is for this service to eventually replace the existing EA Text Ale
 ### Subject Matter Experts
 
 * Internal Digital Services - Sharon Sawyer
-* Incident Communication Service - Steph Turner/Lisa Matthews 
-* Business Continuity Incident Management – Chris Strong
+* Incident Communication Service - Steph Turner, Lisa Matthews 
+* Business Continuity Incident Management – Chris Strong, Catherine Braun and Mel Cox
