@@ -10,7 +10,8 @@ Prepared by: Simon Nebesnuick
 
 ## What we’ve been up to this week
 
-* Simon attened the Defra Text Alert Service telecon to better understand the scope, scale and design of their project. Their project does not intend to replace the existing EA Text Alerts service
+* Created GitHub site and EA SharePoint area for project adminstration
+ * Attended the Defra Text Alert Service telecon to better understand the scope, scale and design of their project. Their project does not intend to replace the existing EA Text Alerts service
 * Call between Ray, Dave and Simon to outline project purpose and use of XWS development ideas and designs
 * EA hosted Show and Tell with Nick Free who is designer for  Defra Text Alert Service to share our project ideas and XWS dev to date
 
