@@ -29,7 +29,7 @@ The intention is for this service to eventually replace the existing EA Text Ale
     1. has a secure user login mechanism
     1. allows for the selection of (multiple) locations
     1. allows for the creation of various messages types
-    1. allows for the use of message tempaltes
+    1. allows for the use of message templates
     1. allows for "approval" of messages before sending
     1. allows for the issuing of messages
     
