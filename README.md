@@ -27,7 +27,9 @@ The intention is for this service to eventually replace the existing EA Text Ale
 
 1. Create an accessible and intuitive internal interface that:
     1. has a secure user login mechanism
-    1. allows for the creation of messages
+    1. allows for the selection of (multiple) locations
+    1. allows for the creation of various messages types
+    1. allows for the use of message tempaltes
     1. allows for "approval" of messages before sending
     1. allows for the issuing of messages
     
@@ -41,6 +43,7 @@ The intention is for this service to eventually replace the existing EA Text Ale
 1. Create an accessible and intuitive internal interface that:
     1. allows for basic staff data maintenance
     1. allows for the creation and maintenance of message templates
+    1. allows for the creation and maintenance of locations
     1. provides a simple message history
     1. provides a simple contact history
     1. provides a simple audit log
