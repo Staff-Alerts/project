@@ -21,6 +21,7 @@ Prepared by: Simon Nebesnuick
   * Objectives
   * Roles
 * Present initial service design to SMEs for comment
+* Collate data on existing service usage
 
 ## Blockers, Issue or Questions
 
