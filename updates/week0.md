@@ -5,25 +5,27 @@ Prepared by: Simon Nebesnuick
 
 ## Summary
 
-* TBC
+* Attending Defra Text Alert Service telecons to understand their project goals and needs
+* Preparing environment for delivery
 
+## What we’ve been up to this week
 
-## What we’ve been up to​ this week​
+* Simon attened the Defra Text Alert Service telecon to better understand the scope, scale and design of their project. Their project does not intend to replace the existing EA Text Alerts service
+* Call between Ray, Dave and Simon to outline project purpose and use of XWS development ideas and designs
+* EA hosted Show and Tell with Nick Free who is designer for  Defra Text Alert Service to share our project ideas and XWS dev to date
 
-* TBC
-
-
-## What we’re planning for ​next week
-
-* TBC
-
+## What we’re planning for next week
+* Planning initial team meeting for start of week 1 to agree:
+  * Timeline
+  * Objectives
+  * Roles
+* Present initial servie design to SMEs for comment
 
 ## Blockers, Issue or Questions
 
-* TBC
+* None
 
 
 ## Biggest risks
 
-* TBC
-
+* None yet!
