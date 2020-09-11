@@ -86,3 +86,4 @@ The intention is for this service to potentially replace the existing EA Text Al
 * Internal Digital Services - Sharon Sawyer
 * Incident Communication Service - Steph Turner, Lisa Matthews 
 * Business Continuity Incident Management – Chris Strong, Catherine Braun and Mel Cox
+* Defra Facilities Management - Justin Bidder and Erica Praed
