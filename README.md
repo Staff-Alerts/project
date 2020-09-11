@@ -8,12 +8,12 @@
 
 The Staff Alerts service will provide a centralised facility which can rapidly inform Environment Agency (EA) staff of incidents via text message. These alerts will protect the safety of staff within the organisation and limit loss of staff productivity. Key communications are time critical to business delivery, thus consistent and rapid delivery is fundamental.  
 
-The intention is for this service to eventually replace the existing EA Text Alerts service which is hard to maintain and manage. The currently in progress "Defra Single Group Text Alert Service" project does **not** intend to replace the existing EA Text Alerts service.
+The intention is for this service to potentially replace the existing EA Text Alerts service which is hard to maintain and manage. The currently in progress "Defra Single Group Text Alert Service" project does **not** intend to replace the existing EA Text Alerts service.
 
 
 ## Goals
 
-* To build a service to notify staff about incidents affecting the organisations sites and the 16 operational areas
+* To build a service to notify staff about incidents affecting EA sites and 16 operational areas
 * To create a quick, user-friendly and low-cost service
 * To allow staff to “self-manage” their details
 * To design a service that can be re-used by others
@@ -35,7 +35,7 @@ The intention is for this service to eventually replace the existing EA Text Ale
     
 1. Identify and implement a way to send text messages to relevant staff using GOV.UK Notify
 
-1. Fully document the approach, design and implementation of the Staff Alerts service for users
+1. Fully document the approach, design, implementation and next steps for full service implementation
 
 1. Handover for future management and delivery to Internal Digital Services
     
