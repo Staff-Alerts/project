@@ -2,7 +2,8 @@
 
 ## Recent updates
 
-* [Week 0](/updates/week0.md)
+* [Week 0](/updates/week0.md) - beginning 7th September
+* [Week 1](/updates/week1.md) - beginning 14th September
 
 ## Background
 

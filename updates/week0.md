@@ -27,7 +27,6 @@ Prepared by: Simon Nebesnuick
 
 * None
 
-
 ## Biggest risks
 
 * None yet!
