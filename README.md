@@ -1,5 +1,16 @@
 # Staff Alerts - Proposal
 
+- [Recent updates](#recent-updates)
+- [Background](#background)
+- [Goals](#goals)
+- [Objectives](#objectives)
+  * [Additional non MVP](#additional-non-mvp)
+- [Benefits](#benefits)
+- [Timeline](#timeline)
+- [Team](#team)
+  * [Subject Matter Experts](#subject-matter-experts)
+
+
 ## Recent updates
 
 * [Week 0](/updates/week0.md) - beginning 7th September
