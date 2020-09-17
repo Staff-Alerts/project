@@ -13,7 +13,10 @@ Prepared by: Polly Sait, Simon Nebesnuick
 ## What we’ve been up to​ this week​
 
 * We have begun assigning tasks on [our project board](https://github.com/Staff-Alerts/project/projects/1)
-* We have been identified the data sources we need to create the service
+* We have been identified the data sources we need to create the serviceDevelopment tools/practices/conventions run-through webex organised for PM 18/09/2020
+* We have held a meeting to discuss development tools/practices/conventions for development work
+* Requested copies of existing guidance documents and knowledge articles used by ICS 
+* Requested lists of existing users who send and approve messages 
 
 ## What we’re planning for ​next week
 
