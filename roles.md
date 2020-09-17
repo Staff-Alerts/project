@@ -3,10 +3,10 @@
 ## Team and roles
 
 * Liz Hills – [Delivery Manager](#delivery-manager)
-* Polly Sait – Product Manager (for alpha phase)
-* Dave Stone – Lead developer
-* Ray Hanson – Developer / Tester
-* Simon Nebesnuick – Service Design / Scrum Master
+* Polly Sait – [Product Manager](#product-manager)
+* Dave Stone – [Lead developer](#lead-developer)
+* Ray Hanson – [Developer](#developer) and [Tester](#tester)
+* Simon Nebesnuick – [Service Design](#service-desginer) and Scrum Master
 
 ## Responsibilities
 
@@ -23,8 +23,7 @@ A delivery manager is accountable for the performance of the team. In this role,
 
 A product manager defines, owns and solve problems. In this role, you will be expected to use your knowledge of user needs and business goals to frame problems and set priorities for your delivery teams. In this role, you will:
 
-* 
-
+* TBC
 
 ### Lead developer
 
