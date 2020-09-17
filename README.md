@@ -87,11 +87,7 @@ The intention is for this service to potentially replace the existing EA Text Al
 
 ## Team
 
-* Liz Hills – Delivery Manager
-* Polly Sait – Product Manager (for alpha phase)
-* Dave Stone – Lead developer
-* Ray Hanson – Developer / Tester
-* Simon Nebesnuick – Service Design / Scrum Master
+See [here](/roles.md)
 
 ### Subject Matter Experts
 
