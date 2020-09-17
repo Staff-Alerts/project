@@ -2,7 +2,7 @@
 
 Contents page goes here!
 
-## Customer
+#### Customer
 A customer who has registered (or opted in) to receive flooding messages from FWS. Sometimes referred to as fully registered customers. Customer types in FWS are home, business, professional partner, media partner, staff and system. Customers can register to receive messages for their property if it is at risk of flooding, or they can register to receive messages relevant to an area or location of interest.
 
 **Flood information service (FIS) on GOV.UK**  
