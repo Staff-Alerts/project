@@ -6,7 +6,7 @@
 * Polly Sait – [Product Manager](#product-manager)
 * Dave Stone – [Lead developer](#lead-developer)
 * Ray Hanson – [Developer](#developer) and [Tester](#tester)
-* Simon Nebesnuick – [Service Design](#service-designer) and Scrum Master
+* Simon Nebesnuick – [Service Design](#service-designer)
 
 ## Responsibilities
 
