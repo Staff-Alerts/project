@@ -23,12 +23,11 @@ A delivery manager is accountable for the performance of the team. In this role,
 
 A product manager is all about delivering **value.** In this role, you will be expected to use your knowledge of user needs and business goals to frame problems and set priorities for your delivery teams. In this role, you will:
 
-* Define the vision for your product that is compelling to users, the delivery team, and stakeholders 
-* Develop and prioritise a product backlog
-*	Work closely with the Delivery Manager to ensure that the purpose of each sprint is clearly defined
-*	Respond swiftly to queries from the delivery team
-*	Engage teams and stakeholders in the development of the service
-*	Ultimately decide when a user need has been met though delivery and when they are ready for release
+* develop and prioritise a product backlog
+* work closely with the Delivery Manager to ensure that the purpose of each sprint is clearly defined
+* respond swiftly to queries from the delivery team
+* engage teams and stakeholders in the development of the service
+* ultimately decide when a user need has been met though delivery and when they are ready for release
 
 ### Lead developer
 
