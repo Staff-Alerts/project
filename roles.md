@@ -1,4 +1,4 @@
-# Staff Alerts - Roles and Responsibilities 
+# Staff Alerts - Team roles and responsibilities 
 
 ## Team and roles
 
