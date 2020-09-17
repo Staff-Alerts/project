@@ -6,7 +6,7 @@
 * Polly Sait – [Product Manager](#product-manager)
 * Dave Stone – [Lead developer](#lead-developer)
 * Ray Hanson – [Developer](#developer) and [Tester](#tester)
-* Simon Nebesnuick – [Service Design](#service-desginer) and Scrum Master
+* Simon Nebesnuick – [Service Design](#service-designer) and Scrum Master
 
 ## Responsibilities
 
@@ -14,16 +14,21 @@
 
 A delivery manager is accountable for the performance of the team. In this role, you will:
 
-* build a team
+* build the team
 * ensure they are motivated, collaborating and working well
 * identify obstacles and help the team to overcome them
 * focus the team on what is most important to the delivery of products and services
 
 ### Product Manager
 
-A product manager defines, owns and solve problems. In this role, you will be expected to use your knowledge of user needs and business goals to frame problems and set priorities for your delivery teams. In this role, you will:
+A product manager is all about delivering **value.** In this role, you will be expected to use your knowledge of user needs and business goals to frame problems and set priorities for your delivery teams. In this role, you will:
 
-* TBC
+* Define the vision for your product that is compelling to users, the delivery team, and stakeholders 
+* Develop and prioritise a product backlog
+*	Work closely with the Delivery Manager to ensure that the purpose of each sprint is clearly defined
+*	Respond swiftly to queries from the delivery team
+*	Engage teams and stakeholders in the development of the service
+*	Ultimately decide when a user need has been met though delivery and when they are ready for release
 
 ### Lead developer
 
@@ -58,4 +63,3 @@ Service designers design the end-to-end journey of a service. This helps a user 
 * can recognise when to ask for further guidance and support
 * will contribute to the development of design concepts
 * should be able to interpret evidence-based research and incorporate this into your work
-
