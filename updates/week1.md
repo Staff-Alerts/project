@@ -20,16 +20,15 @@ Prepared by: Polly Sait, Simon Nebesnuick
 
 ## What we’re planning for ​next week
 
-* Confirm approval for the project 
 * Contacting SMEs for information so we can develop the best possible service
 * Start to plan user research and pencil in dates
 
 
 ## Blockers, Issue or Questions
 
-* TBC
+* Confirm approval for the project 
 
 
 ## Biggest risks
 
-* TBC
+* None
