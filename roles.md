@@ -14,8 +14,7 @@
 
 A delivery manager is accountable for the performance of the team. In this role, you will:
 
-* build the team
-* ensure they are motivated, collaborating and working well
+* build the team and ensure they are motivated, collaborating and working well
 * identify obstacles and help the team to overcome them
 * focus the team on what is most important to the delivery of products and services
 
@@ -58,7 +57,5 @@ A tester (test engineer) works closely with the developer to establish the basis
 
 Service designers design the end-to-end journey of a service. This helps a user complete their goal and government deliver a policy intent. At this level, you:
 
-* can be trusted to make good decisions
-* can recognise when to ask for further guidance and support
-* will contribute to the development of design concepts
+* will lead the development of design concepts
 * should be able to interpret evidence-based research and incorporate this into your work
