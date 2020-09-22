@@ -1,5 +1,5 @@
 # Staff Alerts Week 1 Update
-**Week beginning: 14th September 2020** 
+**Week beginning: 14 September 2020** 
 
 Prepared by: Polly Sait, Simon Nebesnuick
 

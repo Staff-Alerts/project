@@ -1,5 +1,5 @@
-# Staff Alerts Week X Update
-**Week beginning: X** 
+# Staff Alerts Week 2 Update
+**Week beginning: 21 September 2020** 
 
 Prepared by: X
 
