@@ -17,9 +17,8 @@ Prepared by: X
 
 ## Blockers, Issue or Questions
 
-* TBC
+* Confirm approval for the project 
 
 ## Biggest risks
 
-* TBC
-
+* None
