@@ -32,4 +32,10 @@ Data standards are an essential tool in good data management. By defining, publi
 * Remove inactive accounts
 * Remove non-EA accounts
 * Remove landline numbers (not beginning +447)
-* Remove short or long numbers (more or less than 12 characters in length)
+* Remove short numbers (less than 12 characters in length)
+* Find and clean long numbers with additional "0" i.e. 4407123456789
+* Find and clean long numbers with additional "440" i.e. 440447123456789
+
+## Data flows
+
+TBC
