@@ -11,3 +11,9 @@
 1. Create a new IVR service that automatically updates with the information provided in the Staff Alerts service. This will speed up the time it takes to send a message, and simplify the process for ICS staff.
 
 1. Create a new Staff Alerts website that is separate from Reddot. Reddot is a manual system and is very out of date. Ideally, create a new webpage that updates automatically with information provided by the Staff Alerts Service. This will speed up the time it takes to send a message, and simplify the process for ICS staff. Consideration will be needed around the design and the process required to remove existing messages
+
+1. Add the ability to select the approver from an approver list. This will automatically notify the approver there is a message to review.
+
+1. Add the ability to automatically notify ICS once a message has been approved.
+
+1. Automatically add colleagues office locations/Areas to staff who are managers.

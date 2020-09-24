@@ -6,6 +6,9 @@ The Defra Azure Active Directory service that is used to collect staff contacts.
 ### Administrator
 The Administrator is responsible for all aspects of maintaining the system. This includes the maintenance of User accounts.
 
+### BCIM
+Business Continuity Incident Management
+
 ### Group
 These are the groups of staff who will get the message. These can be grouped by Office, Area, System etc. 
 

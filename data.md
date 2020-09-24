@@ -25,7 +25,7 @@ Data standards are an essential tool in good data management. By defining, publi
 | [Encoding characters](https://www.gov.uk/government/publications/open-standards-for-government/cross-platform-character-encoding-profile)  | GDS             |        |
 
 
-## Data cleaning and matching
+## Data cleansing
 
 ### Staff contacts
 
@@ -33,6 +33,7 @@ Data standards are an essential tool in good data management. By defining, publi
 * Remove non-EA accounts
 * Remove landline numbers (not beginning 447)
 * Remove short numbers (less than 12 characters in length)
+* Remove all non-numeric characters
 * Find and clean long numbers with additional "0" i.e. 4407123456789
 * Find and clean long numbers with additional "440" i.e. 440447123456789
 
@@ -48,11 +49,19 @@ Data standards are an essential tool in good data management. By defining, publi
     * Worcester CC 
     * Exeter Isca 
 
+
+
+
+## Data matching
+
 ### Staff locations
 
 * Create matching table for Active Directory offices to EA Office names list
 * Create matching table for EA Office names list to EA Operational Area
 
+
+
+
 ## Data flows
 
-TBC
+* Create a record in the database, tied to the Active Directory UDID, with the data-cleansed string recorded against Staff Mobile
