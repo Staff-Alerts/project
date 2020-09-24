@@ -15,11 +15,11 @@ A type of message sent from the service, for example Business Continuity, System
 ### Staff
 A member of Environment Agency staff with contact details on the service. 
 
-### User
-A member of Environment Agency staff with access to the internal application. All users of the system have individual user account which gives them access to the parts of the system that they need to use.
-
 ### Staff Information website
-This is the public website maintained by ICS that provides detailed information on current issues to staff. It can be accessed here: <www.environment-agency.gov.uk/bcm>
+This is the public website maintained by ICS that provides detailed information on current issues to staff. It can be accessed here: www.environment-agency.gov.uk/bcm
 
 ### Staff Information Line
 This is the public telephone IVR maintained by ICS that provides detailed information on current issues to staff. It can be accessed by dialling 0800 917 1704
+
+### User
+A member of Environment Agency staff with access to the internal application. All users of the system have individual user account which gives them access to the parts of the system that they need to use.
