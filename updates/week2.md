@@ -14,6 +14,7 @@ The project has been moving along at pace and with no major blockers identified
 * High level wireframe diagrams created based on a simple design
 * Review of existing user guidance documents completed to inform intial system design
 * Run through of existing Rant and Rave system completed with ICS user
+* Document of questions regarding message types, templates, audiences and contact types sent to BCIM and ICS colleagues
 * List of potential testers in each 'group' identified 
 * Initial discussions held on hosting options
 * Held first project retrospective meeting
@@ -21,7 +22,8 @@ The project has been moving along at pace and with no major blockers identified
 
 ## What we’re planning for ​next week
 
-* Hold show and tell
+* Hold show and tell session
+* Continue with system development
 * Confirm testers and dates for user testing
 * Discuss communication plan and options for launch with BCIM team 
 
