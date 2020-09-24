@@ -40,7 +40,7 @@ The intention is for this service to potentially replace the existing EA Text Al
 
 1. Create an accessible and intuitive internal interface that:
     1. has a secure user login mechanism
-    1. allows for the selection of (multiple) locations
+    1. allows for the selection of (multiple) groups
     1. allows for the creation of various messages types
     1. allows for "approval" of messages before sending
     1. allows for the issuing of messages
@@ -55,7 +55,7 @@ The intention is for this service to potentially replace the existing EA Text Al
 1. Create an accessible and intuitive internal interface that:
     1. allows for basic staff data maintenance
     1. allows for the creation and maintenance of message templates
-    1. allows for the creation and maintenance of locations
+    1. allows for the creation and maintenance of group
     1. allows for the use of message templates
     1. provides a simple message history
     1. provides a simple contact history
@@ -93,5 +93,5 @@ See [here](/roles.md)
 ### Subject Matter Experts
 
 * Internal Digital Services - Sharon Sawyer
-* Incident Communication Service - Steph Turner, Lisa Matthews 
+* Incident Communication Service - Steph Turner, Lisa Matthews
 * Business Continuity Incident Management – Chris Strong, Catherine Braun and Mel Cox
