@@ -19,7 +19,7 @@
 
 ## Background
 
-The Staff Alerts service will provide a centralised facility which can rapidly inform Environment Agency (EA) staff of notifiable events via text message. These alerts will protect the safety of staff within the organisation and limit loss of staff productivity. Key communications are time critical to business delivery, thus consistent and rapid delivery is fundamental.  
+The Staff Alerts service will provide a centralised facility which can rapidly inform Environment Agency (EA) staff of notifiable events via text message, the Staff Information website and Helpline. Clear communications are vital to business delivery, so a consistent and rapid method of creating, approving and sending messages is critical.
 
 The intention is for this service to potentially replace the existing EA Text Alerts service which is hard to maintain and manage. The currently in progress "Defra Single Group Text Alert Service" project does **not** intend to replace the existing EA Text Alerts service.
 
