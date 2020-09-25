@@ -17,3 +17,5 @@
 1. Add the ability to automatically notify ICS once a message has been approved.
 
 1. Automatically add colleagues office locations/Areas to staff who are managers.
+
+1. Allow staff to unsubscribe from groups by texting back a short code to the service i.e. STOP KSL
