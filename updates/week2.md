@@ -19,7 +19,7 @@ The project has been moving along at pace and with no major blockers identified.
 * Initial discussions held on hosting options - looking at Defra AWS or GOV.UK PaaS
 * Held first project retrospective meeting
 * Handover documents started for ongoing updates to enable clean handover at end of project
-* Template for guidance documents created - you can view them [here](https://staff-alerts-docs.london.cloudapps.digital/#introduction)
+* Template for guidance documents created - you can view them [here](https://staff-alerts-guidance.london.cloudapps.digital/)
 
 ## What we’re planning for ​next week
 
