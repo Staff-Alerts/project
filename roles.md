@@ -1,4 +1,5 @@
 # Staff Alerts - Team roles and responsibilities 
+Agreed in [week 2](/updates/week2.md)
 
 ## Team and roles
 
