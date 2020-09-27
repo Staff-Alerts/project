@@ -53,20 +53,6 @@ The intention is for this service to potentially replace the existing EA Text Al
 
 1. Handover for future management and delivery to Internal Digital Services
     
-### Additional non MVP
-1. Create an accessible and intuitive internal interface that:
-    1. allows for basic staff data maintenance
-    1. allows for the creation and maintenance of message templates
-    1. allows for the creation and maintenance of group
-    1. allows for the use of message templates
-    1. provides a simple message history
-    1. provides a simple contact history
-    1. provides a simple audit log
-
-1. Identify and implement a way to monitor the success of the text messages issued
-
-1. Identify and implement a way to remove duplicate messages before they are issued
-
 
 ## Benefits
 
@@ -77,6 +63,7 @@ The intention is for this service to potentially replace the existing EA Text Al
 * Ability to re-use components from XWS (NeXt Warning System) development
 * Ability to open source our work for re-use by Defra or others without restriction
 * Provide a seamless transition to Internal Digital Services for future management
+
 
 ## Timeline
 
