@@ -4,7 +4,6 @@
 - [Background](#background)
 - [Goals](#goals)
 - [Objectives](#objectives)
-  * [Additional non MVP](#additional-non-mvp)
 - [Benefits](#benefits)
 - [Timeline](#timeline)
 - [Team](#team)
