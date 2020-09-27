@@ -3,7 +3,6 @@
 
 Prepared by: Polly Sait, Simon Nebesnuick
 
-
 ## Summary
 
 * Held first team meeting to discuss project and agree timeline, roles and next steps
