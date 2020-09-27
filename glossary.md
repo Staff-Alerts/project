@@ -47,7 +47,7 @@ A member of Environment Agency staff with one or more mobile telephone numbers r
 ### Staff Information Website
 This is the public website maintained by ICS that provides detailed information on current issues to staff. It can be accessed here: www.environment-agency.gov.uk/bcm
 
-### Staff Information Hotline
+### Staff Information Helpline
 This is the public telephone IVR maintained by ICS that provides detailed information on current issues to staff. It can be accessed by dialling 0800 917 1704
 
 ### User
