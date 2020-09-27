@@ -52,15 +52,3 @@ This is the public telephone IVR maintained by ICS that provides detailed inform
 
 ### User
 A member of Environment Agency staff with access to the internal application. All users of the system have individual user account which gives them access to the parts of the system that they need to use.
-
-
-
-
-**ADM**
-Area Duty Manager
-
-**SDM**
-
-**ABC** 
-
-**NDM**
