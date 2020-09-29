@@ -18,8 +18,10 @@ The mobile telephone number in the service linked to a staff member.
 ### Contact types
 The type of contact registered in the service, for example:
 
-* Staff Mobile - a company-provided mobile phone
-* Personal Mobile - a personal mobile phone
+* Text - Staff: a company-provided mobile phone harvested from Azure Active Directory
+* Text- Opt-in: a personal mobile phone manually added to the servce
+* Website: the [Staff Information Website](www.environment-agency.gov.uk/bcm)
+* Hotline: the Staff Information Hotline (0800 917 1704)
 
 ### GOV.UK Notify
 The text messaging platform we use to send messages to contacts.
@@ -27,9 +29,10 @@ The text messaging platform we use to send messages to contacts.
 ### Message types
 A type of message sent from the service, for example:
 
-* Business Continuity
-* System Issue
-* Test
+* Business Continuity – for example office closures / staff safety
+* System Issue – for example “Staff Call” being unavailable
+* Test - for testing the system. Only goes to select staff
+* Communications –  internal comms to Text - Staff only 
 
 ### Messages 
 Contains all the information for each notifiable event. This gets sent to staff and for use on the Staff Information Website and Hotline
