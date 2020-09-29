@@ -21,7 +21,7 @@ The type of contact registered in the service, for example:
 * Text - Staff: a company-provided mobile phone harvested from Azure Active Directory
 * Text- Opt-in: a personal mobile phone manually added to the servce
 * Website: the [Staff Information Website](www.environment-agency.gov.uk/bcm)
-* Hotline: the Staff Information Hotline (0800 917 1704)
+* Hotline: the Staff Information Helpline (0800 917 1704)
 
 ### GOV.UK Notify
 The text messaging platform we use to send messages to contacts.
