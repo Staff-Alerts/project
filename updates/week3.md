@@ -21,5 +21,6 @@ Prepared by: X
 
 ## Biggest risks
 
-* TBC
+* Delays with provisioning appropriate development environments
+* Delays with creation of an Active Directoy account for use in the staff contact management pages
 
