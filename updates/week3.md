@@ -5,14 +5,15 @@ Prepared by: X
 
 ## Summary
 
-* TBC
+
 
 ## What we’ve been up to​ this week​
 
-* Continued creation of the 'staff' pages - nearly done/done
-* Walk through of existing Rant and Rave system held with ICS collegues
-* Show and Tell with the team
+* Continued development of the staff contact management pages
+* Walk through of existing Rant and Rave system held with ICS collegues which provided really useful insight into current issues 
+* Show and Tell with the team 
 * Confirmed user testers and possible dates
+* Attended Business Coninuity Steering meeting to update them on the project
 
 ## What we’re planning for ​next week
 
@@ -26,5 +27,5 @@ Prepared by: X
 ## Biggest risks
 
 * Delays with provisioning appropriate development environments
-* Delays with creation of an Active Directoy account for use in the staff contact management pages
+* Delays with creation of an Active Directory account for use in the staff contact management pages
 
