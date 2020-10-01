@@ -9,11 +9,15 @@ Prepared by: X
 
 ## What we’ve been up to​ this week​
 
-* TBC
+* Continued creation of the 'staff' pages - nearly done/done
+* Walk through of existing Rant and Rave system held with ICS collegues
+* Show and Tell with the team
+* Confirmed user testers and possible dates
 
 ## What we’re planning for ​next week
 
-* TBC
+* Start development of the creator and approver pages
+* Complete user testing plans
 
 ## Blockers, Issue or Questions
 
