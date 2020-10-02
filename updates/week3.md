@@ -10,7 +10,7 @@ Prepared by: Polly Sait and Simon Nebesnuick
 * Show and Tell with the team on the staff contact management pages work done so far - they look great!
 * Confirmed user testers and possible dates
 * Attended Business Continuity Steering meeting to update them on the project
-* Shared feedback on the ongoing DEfra Group Wide Alerts project including sharing our Staff Alerts early designs
+* Shared feedback on the ongoing Defra Group Wide Alerts project including sharing our Staff Alerts early designs
 
 ## What we’re planning for ​next week
 
