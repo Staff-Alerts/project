@@ -3,10 +3,6 @@
 
 Prepared by: X
 
-## Summary
-
-* TBC
-
 ## What we’ve been up to​ this week​
 
 * TBC
