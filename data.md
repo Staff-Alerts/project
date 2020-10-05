@@ -40,17 +40,14 @@ Data standards are an essential tool in good data management. By defining, publi
 * Create suppression list of known generic accounts
 
 * Need to also get Defra colleagues details in the following offices:
-    * London Nobel 
-    * Bristol TQH 
-    * Hornbeam Crewe
+    * NOBEL HOUSE LONDON
+    * TEMPLE QUAY HOUSE BRISTOL 
+    * CREWE HSE HORNBEAM HOUSE
+    * DEFRA MANLEY HOUSE EXETER
+    * READING NORTH GATE HOUSE
+    * Worcester CC 
     * Eden Bridge 
     * Lancaster House
-    * North Gate 
-    * Worcester CC 
-    * Exeter Isca 
-
-
-
 
 ## Data matching
 
