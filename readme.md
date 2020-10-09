@@ -42,8 +42,7 @@ The intention is for this service to potentially replace the existing EA Text Al
 
 1. Create an accessible and intuitive internal interface that:
     1. has a secure user login mechanism
-    1. allows for the selection of (multiple) groups
-    1. allows for the creation of various messages types
+    1. allows for the selection of a group to send a message to
     1. allows for "approval" of messages before sending
     1. allows for the issuing of messages
     
