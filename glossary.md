@@ -19,7 +19,7 @@ The mobile telephone number in the service linked to a staff member.
 The type of contact registered in the service, for example:
 
 * Text - Staff: a company-provided mobile phone harvested from Azure Active Directory
-* Text- Opt-in: a personal mobile phone manually added to the servce
+* Text - Opt-in: a personal mobile phone manually added to the service
 * Website: the [Staff Information Website](www.environment-agency.gov.uk/bcm)
 * Hotline: the Staff Information Helpline (0800 917 1704)
 
@@ -32,10 +32,9 @@ A type of message sent from the service, for example:
 * Business Continuity – for example office closures / staff safety
 * System Issue – for example “Staff Call” being unavailable
 * Test - for testing the system. Only goes to select staff
-* Communications –  internal comms to Text - Staff only 
 
 ### Messages 
-Contains all the information for each notifiable event. This gets sent to staff and for use on the Staff Information Website and Hotline
+Contains all the information for each notifiable event. This gets sent to staff and for use on the Staff Information Website and Hotline.
 
 ### Permissions
 The roles and rights a user has in the internal application. Permissions include:
@@ -43,15 +42,16 @@ The roles and rights a user has in the internal application. Permissions include
 * Create
 * Send
 * Approve
+* Administration
 
 ### Staff
 A member of Environment Agency staff with one or more mobile telephone numbers registered to get notification messages.
 
 ### Staff Information Website
-This is the public website maintained by ICS that provides detailed information on current issues to staff. It can be accessed here: www.environment-agency.gov.uk/bcm
+This is the public website maintained by ICS that provides detailed information on current issues to staff. It can be accessed here: <www.environment-agency.gov.uk/bcm>
 
 ### Staff Information Helpline
-This is the public telephone IVR maintained by ICS that provides detailed information on current issues to staff. It can be accessed by dialling 0800 917 1704
+This is the public telephone IVR maintained by ICS that provides detailed information on current issues to staff. It can be accessed by dialling 0800 917 1704.
 
 ### User
 A member of Environment Agency staff with access to the internal application. All users of the system have individual user account which gives them access to the parts of the system that they need to use.
