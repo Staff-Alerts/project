@@ -3,7 +3,7 @@
 
 Prepared by: Polly Sait and Simon Nebesnuick
 
-## What we’ve been up to​ this week​
+## What we’ve been up to this week
 
 * We have had retrospective approval for the project!
 * We have signed and MOU for officially using GOV.UK Platform as a Service (PaaS) on behalf of EA
@@ -14,7 +14,7 @@ Prepared by: Polly Sait and Simon Nebesnuick
 * Polly and Simon have also been creating the materials need for user testing next week
 * We had a good conversation with Chris, one of our SMEs, about how the service could be used in the future and the needs as BCIM Service Owner
 
-## What we’re planning for ​next week
+## What we’re planning for next week
 
 * User testing - we aim to use the first iteration services that are hosted on PaaS. If we cant use them, then we can fall back on our wireframe designs
 * We will take feedback we get from user testing back into our designs and development for for the next iterations
