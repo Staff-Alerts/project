@@ -18,6 +18,7 @@
 * [Week 3](/updates/week3.md) - beginning 28 September
 * [Week 4](/updates/week4.md) - beginning 5 October
 * [Week 5](/updates/week5.md) - beginning 12 October
+* [Week 6](/updates/week6.md) - beginning 19 October
 
 
 ## Background
