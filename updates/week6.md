@@ -12,6 +12,7 @@ Prepared by: Polly Sait and Simon Nebesnuick
 * Feedback on system design has been used to make immediate changes to the apps. Some has been used to create a backlog for future development
 * We have completed a comparison between the telephone numbers in the Rant and Rave system with those from Azure and ontained a good match rate
 * Work on completing a project handover document has progressed 
+* Work on SMS sending via Notify using queues and handling delivery receipts
 
 ## What we’re planning for ​next week
 
