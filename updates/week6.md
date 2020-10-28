@@ -10,7 +10,7 @@ Prepared by: Polly Sait and Simon Nebesnuick
 * Further developments to the system have been completed and we are really pleased with how its looking now we are nearing the end of the project
 * We completed the user research with 21 users. All provided really positive feedback on how simple and easy the system will be to use and how much of a difference it would make to them (particularly ICS)
 * Feedback on system design has been used to make immediate changes to the apps. Some has been used to create a backlog for future development
-* We have completed a comparison between the telephone numbers in the Rant and Rave system with those from Azure and ontained a good match rate
+* We have completed a comparison between the telephone numbers in the Rant and Rave system with those from Azure and obtained a good match rate
 * Work on completing a project handover document has progressed 
 * Work on SMS sending via Notify using queues and handling delivery receipts
 
@@ -26,4 +26,4 @@ Prepared by: Polly Sait and Simon Nebesnuick
 
 ## Biggest risks
 
-
+* None

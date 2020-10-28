@@ -19,6 +19,7 @@
 * [Week 4](/updates/week4.md) - beginning 5 October
 * [Week 5](/updates/week5.md) - beginning 12 October
 * [Week 6](/updates/week6.md) - beginning 19 October
+* [Week 7](/updates/week7.md) - beginning 26 October
 
 
 ## Background
@@ -85,4 +86,3 @@ See [here](/roles.md)
 * Internal Digital Services - Sharon Sawyer
 * Incident Communication Service - Steph Turner, Lisa Matthews
 * Business Continuity Incident Management – Chris Strong, Catherine Braun and Mel Cox
-* Defra Facilities Management - Justin Bidder, Erica Praed 
