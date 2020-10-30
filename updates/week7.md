@@ -9,7 +9,8 @@ Prepared by: Simon Nebesnuick
 * We had a show and tell with the service owner to go over our applications and design. We got great feedback!
 * Working with the EA webmaster, we linked our applications to EA domains. These work with laptops using ZScaler and mobile devices, but appear to be blocked by Connect2. Users can still access the applications using the "old" links so this is not a major issue
 * After a bit of trial and error, we managed to get both our applications speaking to Azure Active Directory. This is a key part of the service, providing secure access for authorised users to the "send messages" and allowing EA staff to access the "get messages" pages to manage their contact details
-* 
+* We have been testing various elements of the service in preparation for handing over to the business
+* The online guidance documentation is nearing completion and can be viewed [here.](https://staff-alerts-docs-production.london.cloudapps.digital/#introduction) This will help users navigate the service when it comes to creating, approving and sending messages to staff
 
 ## What we’re planning for ​next week
 
@@ -18,10 +19,10 @@ Prepared by: Simon Nebesnuick
 * Finish testing of the various elements to make sure that there are no major bugs or issues with the service
 * Create a MVP+1 backlog that shows additional work that needs to be carried out to improve the service further
 
-## Blockers, Issue or Questions
+## Blockers, issues or questions
 
 * Decisions on where we take this next and what the next steps are
 
 ## Biggest risks
 
-* None
+* We find a show stopping bug during testing
