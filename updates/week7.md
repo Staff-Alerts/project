@@ -10,7 +10,7 @@ Prepared by: Simon Nebesnuick
 * Working with the EA webmaster, we linked our applications to EA domains. These work with laptops using ZScaler and mobile devices, but appear to be blocked by Connect2. Users can still access the applications using the "old" links so this is not a major issue
 * After a bit of trial and error, we managed to get both our applications speaking to Azure Active Directory. This is a key part of the service, providing secure access for authorised users to the "send messages" and allowing EA staff to access the "get messages" pages to manage their contact details
 * We have been testing various elements of the service in preparation for handing over to the business
-* The online guidance documentation is nearing completion and can be viewed [here.](https://staff-alerts-docs-production.london.cloudapps.digital/#introduction) This will help users navigate the service when it comes to creating, approving and sending messages to staff
+* The online guidance documentation is nearing completion and can be viewed [here.](https://staff-alerts-docs-production.london.cloudapps.digital/#introduction) This will help users navigate the service when it comes to creating, approving and sending messages to staff. Moving guidance documentation online allows us to update this quickly, and allows users access to the most up to date information direct from the service
 
 ## What we’re planning for ​next week
 
