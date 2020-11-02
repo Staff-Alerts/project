@@ -19,7 +19,7 @@ Prepared by: Polly Sait and Simon Nebesnuick
 * User testing - we aim to use the first iteration services that are hosted on PaaS. If we cant use them, then we can fall back on our wireframe designs
 * We will take feedback we get from user testing back into our designs and development for for the next iterations
 
-## Blockers, Issue or Questions
+## Blockers, issues or questions
 
 * None this week
 

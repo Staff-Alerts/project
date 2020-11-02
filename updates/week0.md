@@ -16,6 +16,7 @@ Prepared by: Simon Nebesnuick
 * EA hosted Show and Tell with Nick Free who is designer for  Defra Text Alert Service to share our project ideas and XWS dev to date
 
 ## What we’re planning for next week
+
 * Planning initial team meeting for start of week 1 to agree:
   * Timeline
   * Objectives
@@ -23,7 +24,7 @@ Prepared by: Simon Nebesnuick
 * Present initial service design to SMEs for comment
 * Collate data on existing service usage
 
-## Blockers, Issue or Questions
+## Blockers, issues or questions
 
 * None
 

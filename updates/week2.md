@@ -28,7 +28,7 @@ The project has been moving along at pace and with no major blockers identified.
 * Confirm testers and dates for user testing of "internal" message process and "external" contact management process
 * Discuss communication plan and options for launch with BCIM team 
 
-## Blockers, Issue or Questions
+## Blockers, issues or questions
 
 * Confirm approval for the project 
 

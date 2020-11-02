@@ -22,8 +22,7 @@ Prepared by: Polly Sait, Simon Nebesnuick
 * Contacting SMEs for information so we can develop the best possible service
 * Start to plan user research and pencil in dates
 
-
-## Blockers, Issue or Questions
+## Blockers, issues or questions
 
 * Confirm approval for the project 
 

@@ -11,7 +11,7 @@ Prepared by: X
 
 * TBC
 
-## Blockers, Issue or Questions
+## Blockers, issues or questions
 
 * TBC
 

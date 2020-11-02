@@ -13,14 +13,13 @@ Prepared by: Polly Sait and Simon Nebesnuick
 * The GOV.UK Notify account used to actually send the text messages has now been made live
 * We have compared the contacts registered in the current Rant and Rave system, with those we have collected from Office 365
 
-
 ## What we’re planning for next week
 
 * Continue our user testing and hopefully send out the staff survey
 * Agree the required system user roles (e.g. admin, manager etc.)
 * As we are nearing completion of this project, we will need to start to focus on getting the app in a position to be formally deployed
 
-## Blockers, Issue or Questions
+## Blockers, issues or questions
 
 * Creating the required Azure Application Registration may take some time and hold things up
 * We need to progress with a Data Protection Impact Assessment (DPIA) to ensure our designs comply with data protection rules

@@ -19,7 +19,7 @@ Prepared by: Polly Sait and Simon Nebesnuick
 * Progress with conversations with GOV.UK Platform as a Service (PaaS) team on hosting options
 * Creating script to automatically "clean" staff data from Azure for use in the service
 
-## Blockers, Issue or Questions
+## Blockers, issues or questions
 
 * Confirm approval for the project 
 * Need to confirm who can sign GOV.UK PaaS MOU on behalf of EA

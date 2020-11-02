@@ -20,7 +20,7 @@ Prepared by: Polly Sait and Simon Nebesnuick
 * We will complete some testing to ensure that there are no issues with the system sending messages out to multiple contacts
 * We will plan and schedule in a show and tell to present what we have done those that are interested
 
-## Blockers, Issue or Questions
+## Blockers, issues or questions
 
 * Decisions on where we take this next and what the next steps are may take some time
 
