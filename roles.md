@@ -6,9 +6,9 @@ Agreed in [week 2](/updates/week2.md)
 
 * Liz Hills – [Delivery Manager](#delivery-manager)
 * Polly Sait – [Product Manager](#product-manager)
-* Dave Stone – [Lead developer](#lead-developer)
+* Dave Stone – [Lead Developer](#lead-developer)
 * Ray Hanson – [Developer](#developer) and [Tester](#tester)
-* Simon Nebesnuick – [Service Design](#service-designer)
+* Simon Nebesnuick – [Service Designer](#service-designer)
 
 ## Responsibilities
 
