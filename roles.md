@@ -5,7 +5,7 @@ Agreed in [week 2](/updates/week2.md)
 ## Team and roles
 
 * Liz Hills – [Delivery Manager](#delivery-manager)
-* Polly Sait – [Product Manager](#product-manager)
+* Polly Sait – [Product Manager](#product-manager) and [User Research Lead](#user-researcher)
 * Dave Stone – [Lead Developer](#lead-developer)
 * Ray Hanson – [Developer](#developer) and [Tester](#tester)
 * Simon Nebesnuick – [Service Designer](#service-designer)
@@ -29,6 +29,15 @@ A product manager is all about delivering **value.** In this role, you will be e
 * respond swiftly to queries from the delivery team
 * engage teams and stakeholders in the development of the service
 * ultimately decide when a user need has been met though delivery and when they are ready for release
+
+### User Researcher
+
+User researchers plan, design and carry out research activities with users that help teams get a deep understanding of the people that use government services. This research informs policy, proposition, service, content and interaction design so that services work well for users and achieves policy intent. In this role you will:
+
+* identify service users
+* work with users to understand their needs
+* share designs and options with users to get their feedback
+* report back your findings to the team and stakeholder community
 
 ### Lead developer
 
